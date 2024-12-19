@@ -11,7 +11,7 @@ published: false
 ## はじめに
 前回はKotlinのオブジェクト指向プログラミングの基本について学びました。
 前回の記事は以下からご覧いただけます。  
-[前回の記事](https://zenn.dev/stakeuchi/articles/github-zenn-linkage-20241220)
+[前回の記事](https://zenn.dev/stakeuchi/articles/github-zenn-linkage-20241219)
 
 今回はKotlinを使用しての課題を解決していきます。
 
